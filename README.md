@@ -15,7 +15,7 @@ Core Independent Peripherals (CIPs) is a category of peripherals available on ma
 ## Software Used
 
 - [Atmel Studio](https://www.microchip.com/mplab/avr-support/atmel-studio-7) 7.0.2397 or later
-- [ATtiny DFP](http://packs.download.atmel.com/) 1.4.308 or later
+- [ATtiny DFP](http://packs.download.atmel.com/) 1.6.316 or later
 - AVR/GNU C Compiler (Built-in compiler) 5.4.0 or later
 
 ## Hardware Used
