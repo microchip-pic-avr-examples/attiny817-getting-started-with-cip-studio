@@ -32,7 +32,7 @@ Core Independent Peripherals (CIPs) is a category of peripherals available on ma
 
 3. Open the .atsln file in Atmel Studio.
 
-4. Using the signal from a mechanical button directly into an application without any form of filtering will in many cases lead to unpredictable behavior, since the signal often transitions several times between high and low each time the button is pushed or released. This is often referred to as bounce. If an application is required to act once each time a mechanical button is pressed, some form of filtering needs to be implemented either in hardware or software, also referred to as debouncing. <br/><br/>*This is already implemented for you. For a complete description on how this is done refer to the document  [AN2451 - Getting Started with Core Independent Peripherals on AVR® Microcontrollers](https://www.microchip.com/DS00002451).*
+4. Using the signal from a mechanical button directly into an application without any form of filtering will in many cases lead to unpredictable behavior, since the signal often transitions several times between high and low each time the button is pushed or released. This is often referred to as bounce. If an application is required to act once each time a mechanical button is pressed, some form of filtering needs to be implemented either in hardware or software, also referred to as debouncing. <br/>*This is already implemented for you. For a complete description on how this is done refer to the document  [AN2451 - Getting Started with Core Independent Peripherals on AVR® Microcontrollers](https://www.microchip.com/DS00002451).*
 
 11. Build the solution and program the ATtiny817. 
 
