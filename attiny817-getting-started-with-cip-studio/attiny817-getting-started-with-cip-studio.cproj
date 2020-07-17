@@ -12,9 +12,9 @@
     <OutputFileName>$(MSBuildProjectName)</OutputFileName>
     <OutputFileExtension>.elf</OutputFileExtension>
     <OutputDirectory>$(MSBuildProjectDirectory)\$(Configuration)</OutputDirectory>
-    <AssemblyName>GettingStartedwithCoreIndependentPeripherals</AssemblyName>
-    <Name>GettingStartedwithCoreIndependentPeripherals</Name>
-    <RootNamespace>GettingStartedwithCoreIndependentPeripherals</RootNamespace>
+    <AssemblyName>attiny817-getting-started-with-cip-studio</AssemblyName>
+    <Name>attiny817-getting-started-with-cip-studio</Name>
+    <RootNamespace>attiny817-getting-started-with-cip-studio</RootNamespace>
     <ToolchainFlavour>Native</ToolchainFlavour>
     <KeepTimersRunning>true</KeepTimersRunning>
     <OverrideVtor>false</OverrideVtor>
